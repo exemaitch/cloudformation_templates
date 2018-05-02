@@ -1,0 +1,10 @@
+[
+  {
+    "ParameterKey":"sourceAccount",
+    "ParameterValue": "<put in an account number other than your own>"
+  },
+  {
+    "ParameterKey":"env",
+    "ParameterValue": "prod"
+  }
+]
